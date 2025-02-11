@@ -29,6 +29,7 @@ url: "https://elainw.github.io/" # the base hostname & protocol for your site, e
 #twitter_username: jekyllrb
 github_username:  ElainW
 linkedin_username: yilan-wang-hms
+googlescholar_username: b49K9yYAAAAJ
 
 # Build settings
 sass:
