@@ -28,6 +28,7 @@ baseurl: "/publications" # the subpath of your site, e.g. /blog
 url: "https://elainw.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  ElainW
+linkedin_username: https://www.linkedin.com/in/yilan-wang-hms/
 
 # Build settings
 theme: minima
